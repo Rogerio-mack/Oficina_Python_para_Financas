@@ -12,7 +12,7 @@
 * Ambientes: Anaconda e `Google Colab`
 * Análise de Dados: `Pandas` e `Matplotlib`
 * Aprendizado de Máquina: `Scikit-learn`
-* IA: `ChatGPT Open IA`
+* IA: [`ChatGPT`](https://colab.research.google.com/github/Rogerio-mack/Oficina_Python_para_Financas/blob/main/ChatGPT3_with_Python.ipynb)
 
 <br>
 
