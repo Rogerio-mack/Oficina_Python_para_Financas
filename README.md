@@ -9,7 +9,7 @@
 <br>
 
 * [Básico](https://colab.research.google.com/github/Rogerio-mack/Oficina_Python_para_Financas/blob/main/Basico.ipynb): [`Kaggle` Course](https://www.kaggle.com/learn)
-* [Ambientes](https://colab.research.google.com/github/Rogerio-mack/Oficina_Python_para_Financas/blob/main/Basico.ipynb): Anaconda, [`Google Colab`](https://colab.research.google.com/notebooks/intro.ipynb), [repl.it](https://replit.com/)
+* [Ambientes](https://colab.research.google.com/github/Rogerio-mack/Oficina_Python_para_Financas/blob/main/Basico.ipynb): Anaconda, [`Google Colab`](https://colab.research.google.com/notebooks/intro.ipynb), [`repl.it`](https://replit.com/)
 * Análise de Dados: `Pandas` e `Matplotlib`
 * Aprendizado de Máquina: `Scikit-learn`
 * IA: [`ChatGPT`](https://colab.research.google.com/github/Rogerio-mack/Oficina_Python_para_Financas/blob/main/ChatGPT3_with_Python.ipynb)
