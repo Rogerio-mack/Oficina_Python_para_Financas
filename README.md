@@ -13,7 +13,7 @@
 * Análise de Dados: `Pandas` e `Matplotlib`
 * Aprendizado de Máquina: `Scikit-learn`
 * IA: `ChatGPT Open IA`
-* `Next?`
+* [Recursos](https://colab.research.google.com/github/Rogerio-mack/Oficina_Python_para_Financas/blob/main/Resources.ipynb)
 
 <br>
 <br>
