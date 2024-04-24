@@ -2,13 +2,12 @@
 
 <br>
 <br>
-<br>
-<br>
+
 
 # Oficina Python para Finanças: Uma Introdução  
 Edição 2024
 
-<br>
+<img src="https://github.com/Rogerio-mack/Oficina_Python_para_Financas/blob/main/figs/LearnPythonHAHAHA.png?raw=true" width=250, align="right"> 
 
 ### Recursos
 * [`Google Colab`](https://colab.research.google.com/notebooks/intro.ipynb), [Anaconda](https://www.anaconda.com/), 
