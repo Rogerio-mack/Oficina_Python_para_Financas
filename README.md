@@ -11,7 +11,7 @@ Edição 2024
 <br>
 
 ### Recursos
-[`Google Colab`](https://colab.research.google.com/notebooks/intro.ipynb), [Anaconda](https://www.anaconda.com/), 
+* [`Google Colab`](https://colab.research.google.com/notebooks/intro.ipynb), [Anaconda](https://www.anaconda.com/), 
 [`repl.it`](https://replit.com/), [Kaggle Course](https://www.kaggle.com/learn), [W3schools](https://www.w3schools.com/python/default.asp),
 [Aula de Python do Google](https://developers.google.com/edu/python?hl=pt-br)
 
